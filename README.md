@@ -1,10 +1,9 @@
 # Hi there, I'm Abhishek Sharma 👋
 
-I'm a Full Stack Developer transitioning from QA Automation into core software development. I love building tools that solve real-world problems — whether it’s a Chrome Extension that improves your browser workflow or a robust backend API that powers a task manager.
+I'm a Full Stack Developer in software development. I love building tools that solve real-world problems — whether it’s a Chrome Extension that improves your browser workflow or a robust backend API that powers a task manager.
 
 ### 🚀 What I'm Building
 - 🧠 [Smart Tab Manager](https://github.com/absep98) – A Chrome extension to manage browser tabs (pin, close, bookmark) with clean UI and local storage. Upcoming: Firebase sync and tab search.
-- ✅ [MERN To-Do App](https://todolistapp-test.onrender.com) – A full-stack productivity tool with reminders, JWT auth, and MongoDB.
 
 ### 💻 Tech Stack
 `JavaScript` | `Node.js` | `React.js` | `MongoDB` | `Express.js`  
