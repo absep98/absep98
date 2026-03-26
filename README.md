@@ -3,7 +3,7 @@
 I'm a Full Stack Developer in software development. I love building tools that solve real-world problems — whether it’s a Chrome Extension that improves your browser workflow or a robust backend API that powers a task manager.
 
 ### 🚀 What I'm Building
-- 🧠 [Smart Tab Manager](https://github.com/absep98) – A Chrome extension to manage browser tabs (pin, close, bookmark) with clean UI and local storage. Upcoming: Firebase sync and tab search.
+- 🧠 [Smart Tab Manager](https://chromewebstore.google.com/detail/jfnfcaeagpcloialnbhibiecbphohebm?utm_source=item-share-cb) – A Chrome extension to manage browser tabs (pin, close, bookmark) with clean UI and local storage. Upcoming: Firebase sync and tab search.
 
 ### 💻 Tech Stack
 `JavaScript` | `Node.js` | `React.js` | `MongoDB` | `Express.js`  
