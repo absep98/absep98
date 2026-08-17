@@ -14,6 +14,10 @@ I'm a Full Stack Developer in software development. I love building tools that s
 - Building backend APIs with Express + MongoDB
 - Improving problem-solving with focused DSA practice (1/day)
 
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 📫 Let's Connect
 - 💼 [Portfolio](https://abhisheksharmaprofile.vercel.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-688566151/)
