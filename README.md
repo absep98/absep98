@@ -16,11 +16,11 @@ I'm a Full Stack Developer in software development. I love building tools that s
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Price War Just Got Real: 11 Models Shipped in 20 Days](https://dev.to/abhishek_sharma_a9792aee8/the-ai-price-war-just-got-real-11-models-shipped-in-20-days-7b4)
 - [This week in AI + Indian markets: a zero-click exploit, an open-weight frontier, and a losing streak that snapped](https://dev.to/abhishek_sharma_a9792aee8/this-week-in-ai-indian-markets-a-zero-click-exploit-an-open-weight-frontier-and-a-losing-400h)
 - [I built two small Claude Code plugins this week - here&#39;s what I learned about hooks](https://dev.to/abhishek_sharma_a9792aee8/i-built-two-small-claude-code-plugins-this-week-heres-what-i-learned-about-hooks-2f29)
 - [This week in AI + Indian markets: a safety pause, a price war, and a pullback that isn&#39;t what it looks like](https://dev.to/abhishek_sharma_a9792aee8/this-week-in-ai-indian-markets-a-safety-pause-a-price-war-and-a-pullback-that-isnt-what-it-3p57)
 - [AI Pricing This Week: DeepSeek Gets Cheaper, Claude Sonnet 5 Gets Pricier](https://dev.to/abhishek_sharma_a9792aee8/ai-pricing-this-week-deepseek-gets-cheaper-claude-sonnet-5-gets-pricier-3aec)
-- [The AI Landscape This Week: New Models and the Rise of Vertical AI Tools](https://dev.to/abhishek_sharma_a9792aee8/the-ai-landscape-this-week-new-models-and-the-rise-of-vertical-ai-tools-l9l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Let's Connect
