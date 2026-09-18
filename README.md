@@ -16,11 +16,11 @@ I'm a Full Stack Developer in software development. I love building tools that s
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;What 22 Days of Building AI Systems Taught Me: Grounding, Evals, and Control&quot;](https://dev.to/abhishek_sharma_a9792aee8/what-22-days-of-building-ai-systems-taught-me-grounding-evals-and-control-83)
 - [This Week: AI&#39;s Build-vs-Buy Flip, a Fed Decision Meets $100 Oil, and India&#39;s Fintech Push](https://dev.to/abhishek_sharma_a9792aee8/this-week-ais-build-vs-buy-flip-a-fed-decision-meets-100-oil-and-indias-fintech-push-468d)
 - [This week in AI, markets, and fintech: the build-vs-buy break, the DII floor, and the UPI power shift](https://dev.to/abhishek_sharma_a9792aee8/this-week-in-ai-markets-and-fintech-the-build-vs-buy-break-the-dii-floor-and-the-upi-power-314n)
 - [The AI Price War Just Got Real: GPT-5.6 Drops 80% as ChatGPT Hits 1B Weekly Users](https://dev.to/abhishek_sharma_a9792aee8/the-ai-price-war-just-got-real-gpt-56-drops-80-as-chatgpt-hits-1b-weekly-users-4h84)
 - [The AI Price War Just Got Real: 11 Models Shipped in 20 Days](https://dev.to/abhishek_sharma_a9792aee8/the-ai-price-war-just-got-real-11-models-shipped-in-20-days-7b4)
-- [This week in AI + Indian markets: a zero-click exploit, an open-weight frontier, and a losing streak that snapped](https://dev.to/abhishek_sharma_a9792aee8/this-week-in-ai-indian-markets-a-zero-click-exploit-an-open-weight-frontier-and-a-losing-400h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Let's Connect
